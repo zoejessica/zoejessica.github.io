@@ -2,6 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: Hi, I'm a software engineer. I work at <a href='https://37signals.com'>37signals</a>, making Basecamp and HEY for iPhone and iPad. 
   # - title: info
   #   entries:
   #     - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
@@ -10,11 +11,15 @@ entries:
   #     - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: Posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+    entries: 
+      - title: Eh, no thoughts to share yet, this landing page is one of those new year's initiatives to WRITE MORE! and I guess we'll see how it goes :D Usually I forget how to operate my blogging system by February, forget I have a blog by December and the whole cycle repeats annually. Wish me luck!
+
+  # - title: Posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
 
   # - title: posts by category
   #   post_list:
@@ -39,5 +44,7 @@ entries:
         url: https://mastodon.social/@zoejessica
       - title: Github
         url: https://github.com/zoejessica
+      - title: Linkedin
+        url: https://linked.in/zoejessica
       - title: Travel
         url: https://zoejessica.com
